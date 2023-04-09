@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="RSAEncrypt.cpp">
+    <ClCompile Include="RSAEncrypt.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
